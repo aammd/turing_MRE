@@ -56,6 +56,12 @@ git-tree-sha1 = "444fc445f7805a1abe2868ccfa933c5b2bb29a08"
 uuid = "31c24e10-a181-5473-b8eb-7969acd0382f"
 version = "0.21.6"
 
+[[FillArrays]]
+deps = ["LinearAlgebra", "Random", "SparseArrays"]
+git-tree-sha1 = "6827a8f73ff12707f209c920d204238a16892b55"
+uuid = "1a297f60-69ca-5386-bcde-b61e274b549b"
+version = "0.8.0"
+
 [[InteractiveUtils]]
 deps = ["Markdown"]
 uuid = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
